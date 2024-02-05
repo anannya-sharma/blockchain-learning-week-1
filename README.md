@@ -19,3 +19,19 @@ This repository contains assignments for Week 1 of the Blockchain Learning curri
 4. **Objects:**
    - File: `exercise4.js`
    - Run: `node exercise4.js`
+  
+5. **Palindrome Checker:**
+   - File: `exercise5.js`
+   - Run: `node exercise5.js`
+  
+6. **Factorial Calculator:**
+   - File: `exercise6.js`
+   - Run: `node exercise6.js`
+  
+7. **Fibonacci Sequence:**
+   - File: `exercise6.js`
+   - Run: `node exercise6.js`
+  
+8. **Unique Characters:**
+   - File: `bonusExercise.js`
+   - Run: `node bonusExercise.js`
