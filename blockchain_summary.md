@@ -1,4 +1,3 @@
-```markdown
 # Understanding Blockchain Technology
 
 ## 1. Concept of Blockchain:
@@ -69,7 +68,5 @@ Blockchain provides the underlying technology for cryptocurrencies. It ensures s
 
 **Further Reading:**
 
-- [Blockchain Basics: A Non-Technical Introduction](https://www.ibm.com/cloud/learn/blockchain-basics)
 - [Bitcoin and Cryptocurrencies: A Comprehensive Introduction](https://www.investopedia.com/terms/c/cryptocurrency.asp)
 - [How Does Blockchain Work?](https://blockgeeks.com/guides/how-does-blockchain-work/)
-```
